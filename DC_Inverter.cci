@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:507D6076
+NODE:I LEVEL:0 LINE:25 "F:\Soft_Installed\CodeVision\inc\mega8.h"
+NODE:I LEVEL:0 LINE:26 "F:\Soft_Installed\CodeVision\inc\stdio.h"
+NODE:M LEVEL:0 LINE:28 "F2"
+NODE:V LEVEL:0 LINE:31 "g_F1 -> R4,R5"
+NODE:V LEVEL:0 LINE:32 "g_freq_load -> R6,R7"
+NODE:F LEVEL:0 LINE:77 "main(void)"
+NODE:F LEVEL:0 LINE:90 "timer1_ovf_isr(void)"
+NODE:V LEVEL:0 LINE:93 "num_int_called_S0000001000 -> RAM:????"
+NODE:F LEVEL:0 LINE:114 "timer1Init(unsigned int freq)"
+NODE:F LEVEL:0 LINE:133 "disableOutputA(void)"
+NODE:F LEVEL:0 LINE:139 "enableOutputA(void)"

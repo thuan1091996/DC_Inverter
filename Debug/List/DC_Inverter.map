@@ -1,0 +1,23 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+num_int_called                                                                    0x0160       2
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+g_F1                                                                              R4,R5        2
+g_freq_load                                                                       R6,R7        2
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+main                                                                              0x0004D      6
+timer1_ovf_isr                                                                    0x00053     64
+timer1Init                                                                        0x00093     39
+disableOutputA                                                                    0x000BA      5
+enableOutputA                                                                     0x000BF      5
